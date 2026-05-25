@@ -19,4 +19,4 @@ This is a responsive Event Landing Page project created using HTML and CSS.
 
 ## Developed By
 
-Deepu
+Deepu# Practical-2-event-Landing-
